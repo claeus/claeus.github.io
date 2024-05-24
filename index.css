@@ -1,0 +1,9 @@
+body {
+  width: 540px;
+  max-width: 100%;
+  margin: 0 auto;
+  font-family: "Reddit Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
